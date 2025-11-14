@@ -12,5 +12,4 @@ con fatturato +10 % - 100 eu con fatturato +20% -200 eu con lavoro di squadra si
 
 
 
-promo 
-ciao novita'
+
